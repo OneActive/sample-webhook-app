@@ -12,4 +12,3 @@ public class SampleWebhookApplication {
 	}
 
 }
-//https://demo2.active.ai/webhookapp/get/mobile/number
